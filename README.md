@@ -2,6 +2,14 @@
 
 A comprehensive guide to understanding how Cursor scales Reinforcement Learning (RL) for AI-powered code assistance.
 
+## 👥 Authors
+
+- [Zhan Shi](https://www.linkedin.com/in/zshipassion/)
+- [Rui Sun](https://www.linkedin.com/in/ruisun12/)
+- [Bing He](https://www.linkedin.com/in/bing-he-92b211203/)
+
+Feel free to connect with us on LinkedIn for discussions about RL, AI coding assistants, and ML infrastructure!
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -229,12 +237,6 @@ pip install ray torch transformers
 ## 🤝 Contributing
 
 Contributions are welcome! This is a learning resource for understanding advanced RL systems at scale.
-
-## 👤 Author
-
-Created by [Zhan Shi](https://www.linkedin.com/in/zshipassion/)
-
-Feel free to connect on LinkedIn for discussions about RL, AI coding assistants, and ML infrastructure!
 
 ## 📄 License
 

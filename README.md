@@ -230,6 +230,12 @@ pip install ray torch transformers
 
 Contributions are welcome! This is a learning resource for understanding advanced RL systems at scale.
 
+## 👤 Author
+
+Created by [Zhan Shi](https://www.linkedin.com/in/zshipassion/)
+
+Feel free to connect on LinkedIn for discussions about RL, AI coding assistants, and ML infrastructure!
+
 ## 📄 License
 
 This tutorial is for educational purposes.
